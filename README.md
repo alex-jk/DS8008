@@ -1,3 +1,3 @@
 # Neural Network Predicting Subreddit Karma
 
-Main presentation/submission file: [Final_Project.ipynb](Final_Project.ipynb)
+Main presentation/submission file: [NN_SubReddit_Karma.ipynb](NN_SubReddit_Karma.ipynb)
